@@ -1,0 +1,12 @@
+.errorValue{
+    border: 1px red solid;
+}
+
+.rightValue{
+    border-style: inset;
+}
+
+input:focus{
+    outline: none;
+    outline-offset: 0;
+}
